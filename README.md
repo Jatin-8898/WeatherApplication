@@ -3,8 +3,7 @@ A simple weather app which asks permission for the location and display the weat
 ## Clone the repo
 It is very light weight repo, So recommended starting with cloning the repo
 ```
-git clone https://github.com/Jatin-8898/CurrencyConverter.git
+git clone https://github.com/Jatin-8898/WeatherApplication.git
 ```
 
-## Check it out here
-https://jatin-8898.github.io/CurrencyConverter/
+
